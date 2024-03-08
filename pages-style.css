@@ -1,0 +1,17 @@
+.page{
+    backdrop-filter:blur(5px); 
+    
+    /* background-color:#eff2f5; */
+    margin:30px 0; 
+    border-radius:0px 100px / 120px; 
+    box-shadow: 0 0 40px rgba(0,0,0,.1);
+    backdrop-filter: blur(2px);
+    color:black;
+   padding: 50px 100px 0 100px;
+   overflow: hidden;
+   text-align: justify;
+}
+.para-idt>p{
+    text-indent: 20px;
+    line-height: 1.7;   
+}
